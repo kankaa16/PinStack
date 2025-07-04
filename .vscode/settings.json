@@ -1,0 +1,9 @@
+{
+    "C_Cpp.copilotHover": "disabled",
+    "github.copilot.chat.agent.autoFix": false,
+    "github.copilot.chat.agent.runTasks": false,
+    "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "github.copilot.editor.enableCodeActions": false,
+    "github.copilot.nextEditSuggestions.fixes": false,
+    "github.copilot.renameSuggestions.triggerAutomatically": false
+}
