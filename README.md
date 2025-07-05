@@ -34,5 +34,5 @@ npm install
 npm run dev
 
 4. Ensure you create a .env file with the following:
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
+> - `MONGO_URI=your_mongodb_connection_string`
+> - `JWT_SECRET=your_jwt_secret_key`
